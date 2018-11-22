@@ -1,44 +1,8 @@
-<h1 align="center">Easy Tips</h1>
-<p align="center">
-<a href="https://github.com/TIGERB/easy-tips#目录">
-  <img src="https://img.shields.io/badge/php-done-brightgreen.svg" alt="php">
-</a>
-<a href="https://github.com/TIGERB/easy-tips/tree/master/mysql">
-  <img src="https://img.shields.io/badge/mysql-doing-blue.svg" alt="mysql">
-</a>
-<a href="https://github.com/TIGERB/easy-tips/tree/master/redis">
-  <img src="https://img.shields.io/badge/redis-doing-blue.svg" alt="redis">
-</a>
-<a href="https://github.com/TIGERB/easy-tips/tree/master/patterns">
-  <img src="https://img.shields.io/badge/patterns-done-brightgreen.svg" alt="patterns">
-</a>
-<a href="https://github.com/TIGERB/easy-tips/tree/master/algorithm">
-  <img src="https://img.shields.io/badge/algorithm-%CE%B1-yellowgreen.svg" alt="algorithm">
-</a>
-<a href="https://github.com/TIGERB/easy-tips/tree/master/data-structure">
-  <img src="https://img.shields.io/badge/data--structure-doing-blue.svg" alt="data-structure">
-</a>
-<a href="https://github.com/TIGERB/easy-tips/tree/master/network">
-  <img src="https://img.shields.io/badge/network-doing-blue.svg" alt="network">
-</a>
-<a href="https://github.com/TIGERB/easy-tips/tree/master/docker">
-  <img src="https://img.shields.io/badge/docker-doing-blue.svg" alt="docker">
-</a>
-</p>
 
-<br>
 
 > A knowledge storage for the PHP developer
 
-## Remark
 
-flag      | meaning
---------- | -------
-not-start | not start
-doing     | ing
-α         | for reference only
-done      | complete
-fixing    | fix
 
 ## 目录
 
